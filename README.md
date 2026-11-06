@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
+
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+### Section			   	      : Sodium
+### Group Members			    : Dela Cruz, Gardose, Sinno
+### Date (Proposal Date)  : Nov 6, 2026
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
